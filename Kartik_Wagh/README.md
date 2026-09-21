@@ -332,3 +332,7 @@ curl -X POST $BASE/api/auth/register \
 - **Developer:** Kartik Wagh
 - **Repository:** `assignment-8-gym-management-api` / `itm-assignment-08-gym-api`
 - **License:** ISC
+
+
+DEPLOYMENT LINK : 
+https://assignment-8-gym-management-api-1.onrender.com
